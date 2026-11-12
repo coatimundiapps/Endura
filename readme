@@ -6,6 +6,8 @@ I’m excited to share Endura, a native GTK3 application I’ve been working on 
 
 My goal with Endura is simple: give you full control over your laptop's battery to extend its lifespan.
 
+![Endura screenshot](/screenshot-dashboard-light.png)
+
 Key Features:
 
 Real-time Monitoring: Track health, capacity, voltage, and temperature with live charts.
