@@ -8,6 +8,8 @@ My goal with Endura is simple: give you full control over your laptop's battery 
 
 ![Endura screenshot](/screenshot-dashboard-light.png)
 
+![Endura screenshot](/screenshot-dashboard-dark.png)
+
 Key Features:
 
 Real-time Monitoring: Track health, capacity, voltage, and temperature with live charts.
