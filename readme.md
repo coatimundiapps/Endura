@@ -35,3 +35,6 @@ I’m currently in the final stages of beta testing (v1.0.0-betaXX). Before the 
 I am looking for beta testers to help me identify bugs, test the hardware compatibility (especially the charge limiter on different laptop models), and report any translation issues.
 
 website : https://coatimundiapps.github.io/
+
+*** INFORMATION : Application designed specifically for Deepin Linux. Use on other Linux distributions is not guaranteed. ***
+
